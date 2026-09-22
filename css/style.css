@@ -6,19 +6,27 @@
 
 header{
     padding: 20px;
+    color: purple;
 }
 
 .intro{
     padding: 20px;
+    color: navy;
 }
 
 .card {
     width: 100%;
+    padding: 20px;
     margin-bottom: 16px;
+    color: purple;
+
 }
 
 footer {
     margin-top: 24px;
+    padding: 20px;
+    color: navy;
+
 }
 
 @media (min-width: 768px) {
